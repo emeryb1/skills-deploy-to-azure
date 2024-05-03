@@ -1,3 +1,9 @@
+permissions:
+  contents: read
+  pages: write
+  deployments: write
+  id-token: write
+
 name: Deploy to staging
 
 on:
